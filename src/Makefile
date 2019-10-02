@@ -3,6 +3,8 @@
 all: bosix
 
 CFLAGS=-Wall -Wextra -Wpedantic
+LDFLAGS=
+LIBS=-ll -ly
 
 OBJS=	ar.o asa.o \
 	basename.o \
@@ -25,7 +27,7 @@ OBJS=	ar.o asa.o \
 	wc.o who.o write.o 
 
 bosix: $(OBJS)
-	$(CC) -o $@ $(OBJS) -ll -ly
+	$(CC) -o $@ $(OBJS) $(LDFLAGS) $(LIBS)
 
 sh.o: sh.c mains.h builtins.h
 
