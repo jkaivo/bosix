@@ -1,0 +1,189 @@
+[submodule "tr"]
+	path = tr
+	url = git@gitlab.com:ung.org/bin/tr.git
+[submodule "tee"]
+	path = tee
+	url = git@gitlab.com:ung.org/bin/tee.git
+[submodule "tail"]
+	path = tail
+	url = git@gitlab.com:ung.org/bin/tail.git
+[submodule "renice"]
+	path = renice
+	url = git@gitlab.com:ung.org/bin/renice.git
+[submodule "mkfifo"]
+	path = mkfifo
+	url = git@gitlab.com:ung.org/bin/mkfifo.git
+[submodule "ln"]
+	path = ln
+	url = git@gitlab.com:ung.org/bin/ln.git
+[submodule "sum"]
+	path = sum
+	url = git@gitlab.com:ung.org/bin/sum.git
+[submodule "mkdir"]
+	path = mkdir
+	url = git@gitlab.com:ung.org/bin/mkdir.git
+[submodule "paste"]
+	path = paste
+	url = git@gitlab.com:ung.org/bin/paste.git
+[submodule "ex"]
+	path = ex
+	url = git@gitlab.com:ung.org/bin/ex.git
+[submodule "printf"]
+	path = printf
+	url = git@gitlab.com:ung.org/bin/printf.git
+[submodule "who"]
+	path = who
+	url = git@gitlab.com:ung.org/bin/who.git
+[submodule "pathchk"]
+	path = pathchk
+	url = git@gitlab.com:ung.org/bin/pathchk.git
+[submodule "od"]
+	path = od
+	url = git@gitlab.com:ung.org/bin/od.git
+[submodule "nohup"]
+	path = nohup
+	url = git@gitlab.com:ung.org/bin/nohup.git
+[submodule "nice"]
+	path = nice
+	url = git@gitlab.com:ung.org/bin/nice.git
+[submodule "ar"]
+	path = ar
+	url = git@gitlab.com:ung.org/bin/ar.git
+[submodule "write"]
+	path = write
+	url = git@gitlab.com:ung.org/bin/write.git
+[submodule "wc"]
+	path = wc
+	url = git@gitlab.com:ung.org/bin/wc.git
+[submodule "uuencode"]
+	path = uuencode
+	url = git@gitlab.com:ung.org/bin/uuencode.git
+[submodule "uudecode"]
+	path = uudecode
+	url = git@gitlab.com:ung.org/bin/uudecode.git
+[submodule "unlink"]
+	path = unlink
+	url = git@gitlab.com:ung.org/bin/unlink.git
+[submodule "uname"]
+	path = uname
+	url = git@gitlab.com:ung.org/bin/uname.git
+[submodule "tput"]
+	path = tput
+	url = git@gitlab.com:ung.org/bin/tput.git
+[submodule "stty"]
+	path = stty
+	url = git@gitlab.com:ung.org/bin/stty.git
+[submodule "strings"]
+	path = strings
+	url = git@gitlab.com:ung.org/bin/strings.git
+[submodule "split"]
+	path = split
+	url = git@gitlab.com:ung.org/bin/split.git
+[submodule "sleep"]
+	path = sleep
+	url = git@gitlab.com:ung.org/bin/sleep.git
+[submodule "sh"]
+	path = sh
+	url = git@gitlab.com:ung.org/bin/sh.git
+[submodule "rmdir"]
+	path = rmdir
+	url = git@gitlab.com:ung.org/bin/rmdir.git
+[submodule "rm"]
+	path = rm
+	url = git@gitlab.com:ung.org/bin/rm.git
+[submodule "more"]
+	path = more
+	url = git@gitlab.com:ung.org/bin/more.git
+[submodule "ls"]
+	path = ls
+	url = git@gitlab.com:ung.org/bin/ls.git
+[submodule "logname"]
+	path = logname
+	url = git@gitlab.com:ung.org/bin/logname.git
+[submodule "logger"]
+	path = logger
+	url = git@gitlab.com:ung.org/bin/logger.git
+[submodule "locale"]
+	path = locale
+	url = git@gitlab.com:ung.org/bin/locale.git
+[submodule "link"]
+	path = link
+	url = git@gitlab.com:ung.org/bin/link.git
+[submodule "id"]
+	path = id
+	url = git@gitlab.com:ung.org/bin/id.git
+[submodule "iconv"]
+	path = iconv
+	url = git@gitlab.com:ung.org/bin/iconv.git
+[submodule "head"]
+	path = head
+	url = git@gitlab.com:ung.org/bin/head.git
+[submodule "grep"]
+	path = grep
+	url = git@gitlab.com:ung.org/bin/grep.git
+[submodule "getconf"]
+	path = getconf
+	url = git@gitlab.com:ung.org/bin/getconf.git
+[submodule "file"]
+	path = file
+	url = git@gitlab.com:ung.org/bin/file.git
+[submodule "expand"]
+	path = expand
+	url = git@gitlab.com:ung.org/bin/expand.git
+[submodule "env"]
+	path = env
+	url = git@gitlab.com:ung.org/bin/env.git
+[submodule "ed"]
+	path = ed
+	url = git@gitlab.com:ung.org/bin/ed.git
+[submodule "du"]
+	path = du
+	url = git@gitlab.com:ung.org/bin/du.git
+[submodule "dirname"]
+	path = dirname
+	url = git@gitlab.com:ung.org/bin/dirname.git
+[submodule "dd"]
+	path = dd
+	url = git@gitlab.com:ung.org/bin/dd.git
+[submodule "date"]
+	path = date
+	url = git@gitlab.com:ung.org/bin/date.git
+[submodule "ctags"]
+	path = ctags
+	url = git@gitlab.com:ung.org/bin/ctags.git
+[submodule "crontab"]
+	path = crontab
+	url = git@gitlab.com:ung.org/bin/crontab.git
+[submodule "cp"]
+	path = cp
+	url = git@gitlab.com:ung.org/bin/cp.git
+[submodule "cmp"]
+	path = cmp
+	url = git@gitlab.com:ung.org/bin/cmp.git
+[submodule "cksum"]
+	path = cksum
+	url = git@gitlab.com:ung.org/bin/cksum.git
+[submodule "chown"]
+	path = chown
+	url = git@gitlab.com:ung.org/bin/chown.git
+[submodule "chmod"]
+	path = chmod
+	url = git@gitlab.com:ung.org/bin/chmod.git
+[submodule "chgrp"]
+	path = chgrp
+	url = git@gitlab.com:ung.org/bin/chgrp.git
+[submodule "cat"]
+	path = cat
+	url = git@gitlab.com:ung.org/bin/cat.git
+[submodule "cal"]
+	path = cal
+	url = git@gitlab.com:ung.org/bin/cal.git
+[submodule "bc"]
+	path = bc
+	url = git@gitlab.com:ung.org/bin/bc.git
+[submodule "basename"]
+	path = basename
+	url = git@gitlab.com:ung.org/bin/basename.git
+[submodule "asa"]
+	path = asa
+	url = git@gitlab.com:ung.org/bin/asa.git
