@@ -1,2 +1,2 @@
 #define main ln_main
-#include "../ln/ln.c"
+#include "ln/ln.c"

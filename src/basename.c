@@ -1,2 +1,2 @@
 #define main basename_main
-#include "../basename/basename.c"
+#include "basename/basename.c"

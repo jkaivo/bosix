@@ -1,2 +1,2 @@
 #define main uname_main
-#include "../uname/uname.c"
+#include "uname/uname.c"

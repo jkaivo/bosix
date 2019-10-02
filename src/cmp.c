@@ -1,2 +1,2 @@
 #define main cmp_main
-#include "../cmp/cmp.c"
+#include "cmp/cmp.c"

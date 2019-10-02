@@ -1,2 +1,2 @@
 #define main date_main
-#include "../date/date.c"
+#include "date/date.c"

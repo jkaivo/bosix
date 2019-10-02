@@ -1,2 +1,2 @@
 #define main ctags_main
-#include "../ctags/ctags.c"
+#include "ctags/ctags.c"

@@ -1,2 +1,2 @@
 #define main pathchk_main
-#include "../pathchk/pathchk.c"
+#include "pathchk/pathchk.c"

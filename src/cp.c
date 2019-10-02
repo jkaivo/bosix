@@ -1,2 +1,2 @@
 #define main cp_main
-#include "../cp/cp.c"
+#include "cp/cp.c"

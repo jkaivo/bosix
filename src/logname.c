@@ -1,2 +1,2 @@
 #define main logname_main
-#include "../logname/logname.c"
+#include "logname/logname.c"

@@ -1,2 +1,2 @@
 #define main crontab_main
-#include "../crontab/crontab.c"
+#include "crontab/crontab.c"

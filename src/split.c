@@ -1,2 +1,2 @@
 #define main split_main
-#include "../split/split.c"
+#include "split/split.c"

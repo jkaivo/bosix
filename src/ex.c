@@ -1,2 +1,2 @@
 #define main ex_main
-#include "../ex/ex.c"
+#include "ex/ex.c"

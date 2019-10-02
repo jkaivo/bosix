@@ -1,2 +1,2 @@
 #define main cal_main
-#include "../cal/cal.c"
+#include "cal/cal.c"

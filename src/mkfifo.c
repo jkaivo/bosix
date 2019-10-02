@@ -1,2 +1,2 @@
 #define main mkfifo_main
-#include "../mkfifo/mkfifo.c"
+#include "mkfifo/mkfifo.c"

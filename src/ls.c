@@ -1,2 +1,2 @@
 #define main ls_main
-#include "../ls/ls.c"
+#include "ls/ls.c"

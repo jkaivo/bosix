@@ -1,2 +1,2 @@
 #define main dd_main
-#include "../dd/dd.c"
+#include "dd/dd.c"

@@ -1,2 +1,2 @@
 #define main expand_main
-#include "../expand/expand.c"
+#include "expand/expand.c"

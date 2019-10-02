@@ -1,2 +1,2 @@
 #define main nohup_main
-#include "../nohup/nohup.c"
+#include "nohup/nohup.c"

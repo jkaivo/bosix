@@ -1,2 +1,2 @@
 #define main rm_main
-#include "../rm/rm.c"
+#include "rm/rm.c"

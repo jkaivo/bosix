@@ -1,2 +1,2 @@
 #define main link_main
-#include "../link/link.c"
+#include "link/link.c"

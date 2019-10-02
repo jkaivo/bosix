@@ -1,189 +1,189 @@
 [submodule "tr"]
-	path = tr
+	path = src/tr
 	url = git@gitlab.com:ung.org/bin/tr.git
 [submodule "tee"]
-	path = tee
+	path = src/tee
 	url = git@gitlab.com:ung.org/bin/tee.git
 [submodule "tail"]
-	path = tail
+	path = src/tail
 	url = git@gitlab.com:ung.org/bin/tail.git
 [submodule "renice"]
-	path = renice
+	path = src/renice
 	url = git@gitlab.com:ung.org/bin/renice.git
 [submodule "mkfifo"]
-	path = mkfifo
+	path = src/mkfifo
 	url = git@gitlab.com:ung.org/bin/mkfifo.git
 [submodule "ln"]
-	path = ln
+	path = src/ln
 	url = git@gitlab.com:ung.org/bin/ln.git
 [submodule "sum"]
-	path = sum
+	path = src/sum
 	url = git@gitlab.com:ung.org/bin/sum.git
 [submodule "mkdir"]
-	path = mkdir
+	path = src/mkdir
 	url = git@gitlab.com:ung.org/bin/mkdir.git
 [submodule "paste"]
-	path = paste
+	path = src/paste
 	url = git@gitlab.com:ung.org/bin/paste.git
 [submodule "ex"]
-	path = ex
+	path = src/ex
 	url = git@gitlab.com:ung.org/bin/ex.git
 [submodule "printf"]
-	path = printf
+	path = src/printf
 	url = git@gitlab.com:ung.org/bin/printf.git
 [submodule "who"]
-	path = who
+	path = src/who
 	url = git@gitlab.com:ung.org/bin/who.git
 [submodule "pathchk"]
-	path = pathchk
+	path = src/pathchk
 	url = git@gitlab.com:ung.org/bin/pathchk.git
 [submodule "od"]
-	path = od
+	path = src/od
 	url = git@gitlab.com:ung.org/bin/od.git
 [submodule "nohup"]
-	path = nohup
+	path = src/nohup
 	url = git@gitlab.com:ung.org/bin/nohup.git
 [submodule "nice"]
-	path = nice
+	path = src/nice
 	url = git@gitlab.com:ung.org/bin/nice.git
 [submodule "ar"]
-	path = ar
+	path = src/ar
 	url = git@gitlab.com:ung.org/bin/ar.git
 [submodule "write"]
-	path = write
+	path = src/write
 	url = git@gitlab.com:ung.org/bin/write.git
 [submodule "wc"]
-	path = wc
+	path = src/wc
 	url = git@gitlab.com:ung.org/bin/wc.git
 [submodule "uuencode"]
-	path = uuencode
+	path = src/uuencode
 	url = git@gitlab.com:ung.org/bin/uuencode.git
 [submodule "uudecode"]
-	path = uudecode
+	path = src/uudecode
 	url = git@gitlab.com:ung.org/bin/uudecode.git
 [submodule "unlink"]
-	path = unlink
+	path = src/unlink
 	url = git@gitlab.com:ung.org/bin/unlink.git
 [submodule "uname"]
-	path = uname
+	path = src/uname
 	url = git@gitlab.com:ung.org/bin/uname.git
 [submodule "tput"]
-	path = tput
+	path = src/tput
 	url = git@gitlab.com:ung.org/bin/tput.git
 [submodule "stty"]
-	path = stty
+	path = src/stty
 	url = git@gitlab.com:ung.org/bin/stty.git
 [submodule "strings"]
-	path = strings
+	path = src/strings
 	url = git@gitlab.com:ung.org/bin/strings.git
 [submodule "split"]
-	path = split
+	path = src/split
 	url = git@gitlab.com:ung.org/bin/split.git
 [submodule "sleep"]
-	path = sleep
+	path = src/sleep
 	url = git@gitlab.com:ung.org/bin/sleep.git
 [submodule "sh"]
-	path = sh
+	path = src/sh
 	url = git@gitlab.com:ung.org/bin/sh.git
 [submodule "rmdir"]
-	path = rmdir
+	path = src/rmdir
 	url = git@gitlab.com:ung.org/bin/rmdir.git
 [submodule "rm"]
-	path = rm
+	path = src/rm
 	url = git@gitlab.com:ung.org/bin/rm.git
 [submodule "more"]
-	path = more
+	path = src/more
 	url = git@gitlab.com:ung.org/bin/more.git
 [submodule "ls"]
-	path = ls
+	path = src/ls
 	url = git@gitlab.com:ung.org/bin/ls.git
 [submodule "logname"]
-	path = logname
+	path = src/logname
 	url = git@gitlab.com:ung.org/bin/logname.git
 [submodule "logger"]
-	path = logger
+	path = src/logger
 	url = git@gitlab.com:ung.org/bin/logger.git
 [submodule "locale"]
-	path = locale
+	path = src/locale
 	url = git@gitlab.com:ung.org/bin/locale.git
 [submodule "link"]
-	path = link
+	path = src/link
 	url = git@gitlab.com:ung.org/bin/link.git
 [submodule "id"]
-	path = id
+	path = src/id
 	url = git@gitlab.com:ung.org/bin/id.git
 [submodule "iconv"]
-	path = iconv
+	path = src/iconv
 	url = git@gitlab.com:ung.org/bin/iconv.git
 [submodule "head"]
-	path = head
+	path = src/head
 	url = git@gitlab.com:ung.org/bin/head.git
 [submodule "grep"]
-	path = grep
+	path = src/grep
 	url = git@gitlab.com:ung.org/bin/grep.git
 [submodule "getconf"]
-	path = getconf
+	path = src/getconf
 	url = git@gitlab.com:ung.org/bin/getconf.git
 [submodule "file"]
-	path = file
+	path = src/file
 	url = git@gitlab.com:ung.org/bin/file.git
 [submodule "expand"]
-	path = expand
+	path = src/expand
 	url = git@gitlab.com:ung.org/bin/expand.git
 [submodule "env"]
-	path = env
+	path = src/env
 	url = git@gitlab.com:ung.org/bin/env.git
 [submodule "ed"]
-	path = ed
+	path = src/ed
 	url = git@gitlab.com:ung.org/bin/ed.git
 [submodule "du"]
-	path = du
+	path = src/du
 	url = git@gitlab.com:ung.org/bin/du.git
 [submodule "dirname"]
-	path = dirname
+	path = src/dirname
 	url = git@gitlab.com:ung.org/bin/dirname.git
 [submodule "dd"]
-	path = dd
+	path = src/dd
 	url = git@gitlab.com:ung.org/bin/dd.git
 [submodule "date"]
-	path = date
+	path = src/date
 	url = git@gitlab.com:ung.org/bin/date.git
 [submodule "ctags"]
-	path = ctags
+	path = src/ctags
 	url = git@gitlab.com:ung.org/bin/ctags.git
 [submodule "crontab"]
-	path = crontab
+	path = src/crontab
 	url = git@gitlab.com:ung.org/bin/crontab.git
 [submodule "cp"]
-	path = cp
+	path = src/cp
 	url = git@gitlab.com:ung.org/bin/cp.git
 [submodule "cmp"]
-	path = cmp
+	path = src/cmp
 	url = git@gitlab.com:ung.org/bin/cmp.git
 [submodule "cksum"]
-	path = cksum
+	path = src/cksum
 	url = git@gitlab.com:ung.org/bin/cksum.git
 [submodule "chown"]
-	path = chown
+	path = src/chown
 	url = git@gitlab.com:ung.org/bin/chown.git
 [submodule "chmod"]
-	path = chmod
+	path = src/chmod
 	url = git@gitlab.com:ung.org/bin/chmod.git
 [submodule "chgrp"]
-	path = chgrp
+	path = src/chgrp
 	url = git@gitlab.com:ung.org/bin/chgrp.git
 [submodule "cat"]
-	path = cat
+	path = src/cat
 	url = git@gitlab.com:ung.org/bin/cat.git
 [submodule "cal"]
-	path = cal
+	path = src/cal
 	url = git@gitlab.com:ung.org/bin/cal.git
 [submodule "bc"]
-	path = bc
+	path = src/bc
 	url = git@gitlab.com:ung.org/bin/bc.git
 [submodule "basename"]
-	path = basename
+	path = src/basename
 	url = git@gitlab.com:ung.org/bin/basename.git
 [submodule "asa"]
-	path = asa
+	path = src/asa
 	url = git@gitlab.com:ung.org/bin/asa.git

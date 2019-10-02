@@ -1,2 +1,2 @@
 #define main stty_main
-#include "../stty/stty.c"
+#include "stty/stty.c"

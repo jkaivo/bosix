@@ -1,2 +1,2 @@
 #define main id_main
-#include "../id/id.c"
+#include "id/id.c"

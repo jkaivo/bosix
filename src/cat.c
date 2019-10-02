@@ -1,2 +1,2 @@
 #define main cat_main
-#include "../cat/cat.c"
+#include "cat/cat.c"

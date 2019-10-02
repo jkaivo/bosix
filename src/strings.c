@@ -1,2 +1,2 @@
 #define main strings_main
-#include "../strings/strings.c"
+#include "strings/strings.c"

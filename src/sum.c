@@ -1,2 +1,2 @@
 #define main sum_main
-#include "../sum/sum.c"
+#include "sum/sum.c"

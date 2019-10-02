@@ -1,2 +1,2 @@
 #define main tee_main
-#include "../tee/tee.c"
+#include "tee/tee.c"
