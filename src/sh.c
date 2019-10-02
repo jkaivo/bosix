@@ -1,3 +1,6 @@
+#include "mains.h"
+#include "builtins.h"
+
 #include "../sh/alias.c"
 #include "../sh/bg.c"
 #include "../sh/builtins.c"

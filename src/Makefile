@@ -2,6 +2,8 @@
 
 all: bosix
 
+CFLAGS=-Wall -Wextra -Wpedantic
+
 OBJS=	ar.o asa.o \
 	basename.o \
 	cal.o cat.o chgrp.o chmod.o chown.o cksum.o cmp.o cp.o crontab.o ctags.o \
@@ -24,6 +26,8 @@ OBJS=	ar.o asa.o \
 
 bosix: $(OBJS)
 	$(CC) -o $@ $(OBJS) -ll -ly
+
+sh.o: sh.c mains.h builtins.h
 
 clean:
 	rm -f bosix *.o
