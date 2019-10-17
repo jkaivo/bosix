@@ -1,2 +1,2 @@
 #define main bc_main
-#include "bc/bc.c"
+//#include "bc/bc.c"
