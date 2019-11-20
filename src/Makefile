@@ -14,7 +14,7 @@ bosix: $(OBJS)
 
 deps:
 	printf '.POSIX:\n\n' > .deps.mk
-	for i in *.c; do printf '%s.o: %s ' "$$(basename $$i .c)" "$$i"; grep include "$$i" | sed -e 's/^.*"\(.*\)".*/\1/g' | paste -d' ' -s -; printf '\t$$(CC) -c $$(CFLAGS) %s\n\n' "$$i"; done >> .deps.mk
+	grep include *.c | sed -e 's/#include//g;s/"//g;s/\.c:/.o:/g' >> .deps.mk
 	printf '.POSIX:\n\nOBJS=' > .objs.mk
 	for i in *.c; do printf '\\\n\t%s.o' $$(basename $$i .c); done >> .objs.mk
 	printf '\n' >> .objs.mk
