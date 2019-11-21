@@ -97,7 +97,6 @@ sleep.o: sleep/sleep.c
 split.o: split/split.c
 strings.o: strings/strings.c
 stty.o: stty/stty.c
-sum.o: sum/sum.c
 tail.o: tail/tail.c
 tee.o: tee/tee.c
 tput.o: tput/tput.c

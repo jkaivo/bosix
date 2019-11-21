@@ -52,7 +52,6 @@ OBJS=\
 	split.o\
 	strings.o\
 	stty.o\
-	sum.o\
 	tail.o\
 	tee.o\
 	tput.o\

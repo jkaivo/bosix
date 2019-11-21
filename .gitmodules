@@ -16,9 +16,6 @@
 [submodule "ln"]
 	path = src/ln
 	url = git@gitlab.com:ung.org/bin/ln.git
-[submodule "sum"]
-	path = src/sum
-	url = git@gitlab.com:ung.org/bin/sum.git
 [submodule "mkdir"]
 	path = src/mkdir
 	url = git@gitlab.com:ung.org/bin/mkdir.git
